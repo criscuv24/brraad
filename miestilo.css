@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(167, 218, 213);
+}
+#principal{
+    position: static;
+    background-color: lightblue;
+    width: 150px;
+    height: 125px;
+    border: 2px solid blue;
+}
+#foto{
+    position: fixed;
+    top: 50px;
+    left: 300px;
+    background-color: rgb(128, 240, 240);
+    width: 200px;
+    height: 220px;
+    border: 5px solid rgba(38, 0, 255, 0.726);
+}
+h3{
+    float: right;
+    background-color: lightyellow;
+    width: 120px;
+    height: 150px;
+    border: 2px solid rgba(0, 255, 157, 0.747);
+    margin: 10px;
+}
